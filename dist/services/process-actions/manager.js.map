@@ -1,0 +1,1 @@
+{"version":3,"file":"manager.js","sourceRoot":"","sources":["../../../src/services/process-actions/manager.ts"],"names":[],"mappings":";;;AACA,qEAAiE;AACjE,uCAAyD;AAEzD;;;;GAIG;AACH,MAAa,qBAAsB,SAAQ,kCAAsC;IACnE,eAAe;QACrB,OAAO,IAAI,CAAC,GAAG,CAAC,OAAO,CAAC,8BAAwB,CAAC,CAAC;IACtD,CAAC;IAES,gBAAgB;QACtB,OAAO,KAAK,CAAC;IACjB,CAAC;CACJ;AARD,sDAQC"}

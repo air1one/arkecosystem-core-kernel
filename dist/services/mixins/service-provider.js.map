@@ -1,0 +1,1 @@
+{"version":3,"file":"service-provider.js","sourceRoot":"","sources":["../../../src/services/mixins/service-provider.ts"],"names":[],"mappings":";;;AAAA,mCAAwC;AACxC,+CAAyE;AACzE,qCAAwC;AAExC,MAAa,eAAgB,SAAQ,2BAAmB;IACpD;;;;;OAKG;IACI,KAAK,CAAC,QAAQ;QACjB,IAAI,CAAC,GAAG,CAAC,IAAI,CAAe,iBAAW,CAAC,YAAY,CAAC,CAAC,EAAE,CAAC,qBAAY,CAAC,CAAC,gBAAgB,EAAE,CAAC;IAC9F,CAAC;CACJ;AAVD,0CAUC"}
